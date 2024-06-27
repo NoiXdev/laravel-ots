@@ -2,9 +2,9 @@
 
 namespace NoiX\OTS;
 
+use NoiX\OTS\Commands\OTSCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use NoiX\OTS\Commands\OTSCommand;
 
 class OTSServiceProvider extends PackageServiceProvider
 {
