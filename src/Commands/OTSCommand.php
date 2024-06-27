@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace NoiX\OTS\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class OTSCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'ots';
 
     public $description = 'My command';
 
